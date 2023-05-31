@@ -1,2 +1,2 @@
-# data-mining
-This repository contains my codes reports for my seventh-semester course of Data Warehousing and Data Mining. I have used python to do simple data processing tasks such as data-preprocessing, cluster analysis, frequent itemset mining etc.
+# Data Mining
+This repository contains my codes reports for my seventh-semester course of Data Warehousing and Data Mining. I have used python to do simple data processing tasks such as data-preprocessing, cluster analysis, frequent itemset mining etc. These codes are created using Colab Notebooks hence the .ipynb format. I haven't dwelled much into Data Science, Machine learning or Data Analysis right now but will surely be following up on those topics.
